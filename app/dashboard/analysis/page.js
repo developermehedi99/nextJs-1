@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Analysis = () => {
+    throw new Error("mountain dew nai tai error");
     return (
         <div>
             <h2>Alalysis page </h2>
