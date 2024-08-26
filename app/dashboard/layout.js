@@ -1,5 +1,8 @@
 import React from 'react';
-
+export const metadata = {
+    title: "Dashboard page",
+    description: "dashboard page description",
+  };
 const layout = ({children}) => {
     return (
         <div>
