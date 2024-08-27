@@ -19,6 +19,7 @@ export default function RootLayout({ children }) {
             <li><CustomLinks path="/">home</CustomLinks></li>
             <li><CustomLinks path="/dashboard/setting">setting</CustomLinks></li>
             <li><CustomLinks path="/dashboard/analysis">analysis</CustomLinks></li>
+            <li><CustomLinks path="/blogs">blogs</CustomLinks></li>
           </ul>
         </div>
         {children}
